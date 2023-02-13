@@ -1,1 +1,2 @@
-#!/bin/bash 17-hidethisword 18-letteronly 19-AZ 20-hiago 21-reverse 22-users_and_homes
+#!/bin/bash
+grep -iA 3 "root" /etc/passwd

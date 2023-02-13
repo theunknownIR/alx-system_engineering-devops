@@ -1,1 +1,2 @@
-#!/bin/bash 14-findthatword 15-countthatword
+#!/bin/bash
+sort | uniq -u

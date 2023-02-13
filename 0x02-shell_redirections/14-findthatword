@@ -1,1 +1,2 @@
-#!/bin/bash 15-countthatword 17-hidethisword
+#!/bin/bash
+grep -i "root" /etc/passwd
